@@ -37,9 +37,9 @@ Medio de comunición principal Teams, Github issues.
 
 ## Evaluación
 
--- 15% Repositorio de Github organizado y con los ejercicios actualizados y terminados.
+-- 20% Repositorio de Github organizado y con los ejercicios de cada clase, así como actualizaciones dentro del periodo máximo de entrega.
 
--- 15% Participación en clase. Se considera el avance del ejercicio hecho en clase, así como la participación asincrona via Teams y issues de Github. 
+-- 10% Participación en clase. Se considera tanto la participación en el tiempo de clase, como la asincrona via Teams y issues de Github. 
 
 -- 40% Proyectos parciales.  
 
