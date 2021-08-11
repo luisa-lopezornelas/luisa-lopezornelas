@@ -1,4 +1,4 @@
-# Prepara tus herramientas principales para el curso.
+# Prepara tus herramientas principales para la primera parte del curso.
 
 
 ## Lo ideal para el curso es contar con una computadora con sistema operativo Linux/UNIX (o Mac OS).
@@ -13,11 +13,11 @@ Se recomienda realizar la instalación completa en una partición de tu computad
 e.g para Ubuntu https://ubuntu.com/download/desktop.(Hay muchos videos mostrando como hacerlo https://www.youtube.com/watch?v=qSbRnYWwnxI)
 
 Nota que puedes tener en tu computadora ambos sistemas operativos, linux y windows 
-y al terminar el curso puedes eliminar linux si decides que no es para ti. Debes tener cuidado de respaldar tu información importante, pues a veces la instalación es facil la primera vez que se hace. También puedes probar con ambientes virtuales, como virtual box, e.j https://www.genbeta.com/paso-a-paso/esta-forma-rapida-sencilla-crear-maquina-virtual-ubuntu-dentro-windows-10 (Investiga un poco ya que hay muchas opciones). 
+y al terminar el curso puedes eliminar linux si decides que no es para ti. Debes tener cuidado de respaldar tu información importante, pues a veces la instalación no es facil la primera vez que se hace. También puedes probar con ambientes virtuales, como virtual box, e.j https://www.genbeta.com/paso-a-paso/esta-forma-rapida-sencilla-crear-maquina-virtual-ubuntu-dentro-windows-10 (Investiga un poco ya que hay muchas opciones). 
 
 Alternativa 2: Si definitivamente no conseguiste tener un ambiente de Linux podrás trabajar en windows  
-Si este fue el caso, requeriras tener una forma de compilar codigos en C (busca en google), nuevamente hay muchas opciones. La que yo intentaré poder darles un poco de soporte es usando visual studio 
-- https://code.visualstudio.com con las extensiones para C (https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools), el compilador de C (https://code.visualstudio.com/docs/cpp/config-mingw) y Git (https://git-scm.com/download/win)
+Si este fue el caso, requeriras tener una forma de compilar codigos en C (hay muchas opciones, busca en google). La que yo intentaré poder darles un poco de soporte es usando visual studio 
+- Requerirñas https://code.visualstudio.com con las extensiones para C (https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools), el compilador de C (https://code.visualstudio.com/docs/cpp/config-mingw) y Git (https://git-scm.com/download/win)
 
 También existen plataformas para realizar código en linea, 
 como https://colab.research.google.com/notebooks/welcome.ipynb?hl=es (aunque este mas comunente usado para python, puede también ejecutarse codigo C), https://www.onlinegdb.com/online_c_compiler, entre muchas otras. 
@@ -41,6 +41,6 @@ TAREA: A mas tardar el día 18 de Agosto debes tener resuelto con cual de las op
  
 ## GITHUB
 
-  1.- (Se realiza una sola vez!) Accede al siguiente link:https://classroom.github.com/a/AV1tdesw  para crear tu repositorio principal para el curso. 
+  1.- (Se realiza una sola vez!) Accede al siguiente link:  para crear tu repositorio principal para el curso. 
   Si es la primera vez que usas github primero deberas crear tu cuenta de usuario. 
   
