@@ -17,7 +17,7 @@ y al terminar el curso puedes eliminar linux si decides que no es para ti. Debes
 
 Alternativa 2: Si definitivamente no conseguiste tener un ambiente de Linux podrás trabajar en windows  
 Si este fue el caso, requeriras tener una forma de compilar codigos en C (busca en google), nuevamente hay muchas opciones. La que yo intentaré poder darles un poco de soporte es usando visual studio 
-- https://code.visualstudio.com con las extensiones para C (https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools) y Git (https://git-scm.com/download/win)
+- https://code.visualstudio.com con las extensiones para C (https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools), el compilador de C (https://code.visualstudio.com/docs/cpp/config-mingw) y Git (https://git-scm.com/download/win)
 
 También existen plataformas para realizar código en linea, 
 como https://colab.research.google.com/notebooks/welcome.ipynb?hl=es (aunque este mas comunente usado para python, puede también ejecutarse codigo C), https://www.onlinegdb.com/online_c_compiler, entre muchas otras. 
