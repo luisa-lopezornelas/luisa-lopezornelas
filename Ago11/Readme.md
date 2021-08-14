@@ -41,6 +41,6 @@ TAREA: A mas tardar el día 18 de Agosto debes tener resuelto con cual de las op
  
 ## GITHUB
 
-  1.- (Se realiza una sola vez!) Accede al siguiente link:https://classroom.github.com/a/qY6aYBfr  para crear tu repositorio principal para el curso. 
+  1.- (¡Se realiza una sola vez!) Accede al siguiente link:https://classroom.github.com/a/qY6aYBfr  para crear tu repositorio principal para el curso. 
   Si es la primera vez que usas github primero deberas crear tu cuenta de usuario. 
   
