@@ -46,9 +46,9 @@ Medio de comunición principal Teams, Github issues.
 -- 30% Proyecto final
 
 ## Util 
-[Resumen de comandos de Github en español ](https://services.github.com/on-demand/downloads/es_ES/github-git-cheat-sheet.pdf )
+[Resumen de comandos de Github en español ](https://training.github.com/downloads/es_ES/github-git-cheat-sheet.pdf )
 
-[Resumen de comandos de Github](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf). 
+[Resumen de comandos de Github](https://education.github.com/git-cheat-sheet-education.pdf). 
 
 
 ## Bibliografía 
