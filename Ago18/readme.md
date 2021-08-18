@@ -61,4 +61,4 @@ repositorio local tiene actualizaciones que no se encuentran en el repositorio e
    
    ```
    
-   Otras instrucciones mas avanzadas las iremos viendo durante el curso, según vayan apareciendo. 
+   Otras [instrucciones de git](https://training.github.com/downloads/es_ES/github-git-cheat-sheet.pdf) mas avanzadas las iremos viendo durante el curso, según vayan apareciendo. 
