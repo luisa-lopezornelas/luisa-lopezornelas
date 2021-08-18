@@ -19,7 +19,7 @@ y verificaremos que ya esté instalado el editor (Visual Studio Code), así como
   
   - Para actualizar tu repositorio e incluir los cambios que YO he realizado en mi repositorio báse usa la instrucción 
 
-      `git pull https://github.com/alxogm/PB2021 master`
+      `git pull https://github.com/alxogm/PB2021 --allow--unrelated-histories`
   
   - Realiza un cambio en tu repositorio local. Para inicar crea una rama de trabajo: 
   
