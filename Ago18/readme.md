@@ -1,4 +1,5 @@
 Actividades:
+
 1.- En esta clase revisaremos la forma de accesar a la terminal de trabajo en linux/MAC(OS) y Windows,
 y verificaremos que ya esté instalado el editor (Visual Studio Code), así como el compilador de C, y git. 
 
