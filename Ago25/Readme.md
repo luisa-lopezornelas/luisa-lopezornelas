@@ -14,4 +14,4 @@ Ejercicios:
 
 	e = a + (b * c) / d
 	
--Escribe, compila y ejecuta otro programa igual que el anterior, pero donde la entrada sean números reales(float) para a y d. ¿Qué tipo de variable debe ser e? El nombre del archivo C debe ser operaciones_int.c
+-Escribe, compila y ejecuta otro programa igual que el anterior, pero donde la entrada sean números reales(float) para a y d. ¿Qué tipo de variable debe ser e? El nombre del archivo C debe ser operaciones_float.c
