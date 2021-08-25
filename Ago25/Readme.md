@@ -1,5 +1,5 @@
 Clase: 
-- Notas en el archivo introduccion_variables.pdf
+- Notas en el archivo PB_Ago25.pdf
 
 Ejercicios:
 - Escribe, compila y ejecuta el programa que está como ejemplo en la última diapositiva.
